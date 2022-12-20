@@ -2,7 +2,7 @@ Merge Sort
    :- Devide and Conqure ex [3,6,8,7,5,2,]
     [3,6,8]           [7,5,2]            | start mid end for devide
 
-    [3,6] [8]        [7,5] [2]
+    [3,6] [8]        [7,5] [2]           TC  nlog(n)
 
    [3] [6] [8]       [7] [5] [2]
 
@@ -12,4 +12,9 @@ Merge Sort
 
          [2,3,5,6,7,8]
 
- url :- https://drive.google.com/file/d/1meJu99A8-0O3PRnOqF66vw5lw8wz2MMi/view        
+ url :- https://drive.google.com/file/d/1meJu99A8-0O3PRnOqF66vw5lw8wz2MMi/view  
+
+ Quick Sort
+  1 pivote 2 partition   
+  pivote laste position   
+  send small element before pivote and larger after
