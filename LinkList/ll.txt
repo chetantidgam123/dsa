@@ -1,0 +1,23 @@
+List of Nodes which are connected
+ArrayList           vS       LinkList
+Insert TC O(N)             Insert TC O(1)
+Search TC O(1)             Search TC O(N)    
+
+Node include 1)Data-> data which want to stored 
+             2)next-> point to next node stored refrence of next node
+
+             we only required first node which is head
+
+
+             Types of LinkList
+             1)Singular
+             2)Double
+             3)Circular
+
+Collection Framework in LinkList
+add("is");
+addFirst("My");
+addLast("Chetan");
+add(2, "MiddleAt_2");
+removeFirst();
+removeLast
