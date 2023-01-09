@@ -1,0 +1,6 @@
+Hashset is used to stored unique element
+
+Hashset<Integer> set  = new Hashset<>();
+
+set.add()
+set.size()
