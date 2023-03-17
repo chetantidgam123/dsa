@@ -1,0 +1,13 @@
+Methoods in Hashmap
+
+Map<Integer,Integer> map = new HashMap<>();
+map.put(key,value) insert value 
+map.remove(key);
+hm.replace(key, "value");
+hm.replaceAll((k,v) -> "Ajay"); ==>replaceAll the value 
+map.getOrDefault(val, 0) ==> get assign value for val or 0
+
+******** Iterate Map ********
+for(Map.Entry map : map.entrySet()){    
+    System.out.println(map.getKey()+" "+map.getValue());    
+   }
